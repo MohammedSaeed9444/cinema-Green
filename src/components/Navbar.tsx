@@ -10,7 +10,7 @@ const Navbar = () => {
       <div className="container flex items-center justify-between py-4">
         <div className="flex items-center gap-10">
           <Link to="/" className="flex items-center gap-2">
-            <span className="text-2xl font-bold text-gradient">CineVerse</span>
+            <span className="text-2xl font-bold text-gradient">cinema Green</span>
           </Link>
           
           <div className="hidden md:flex items-center gap-6">
